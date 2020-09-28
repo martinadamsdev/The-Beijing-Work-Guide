@@ -14,7 +14,7 @@
 
 ## 北京 955 公司
 
-# 欢迎 PR，好的内容分享，请先发[issue](https://github.com/martinageradams/The-Beijing-Work-Guide/issues)
+**欢迎 PR，好的内容分享，请先发[issue](https://github.com/martinageradams/The-Beijing-Work-Guide/issues)**
 
 ## License
 
